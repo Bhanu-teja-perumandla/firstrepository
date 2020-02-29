@@ -6,7 +6,7 @@ int main(){
 	
 	cout<<"Enter two numbers"<<endl;
 	cin>>a>>b;
-	
+	cout<<"This line is added offline\n";
 	res=a-b;
 	cout<<"difference of two numbers = "<<res;
 	
